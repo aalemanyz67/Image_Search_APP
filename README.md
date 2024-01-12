@@ -1,7 +1,7 @@
 # Image_Search_APP
 Alberto Aleman Jr.
-Github: https://github.com/aalemanyz67
-Deployed Webpage: 
+Github: https://github.com/aalemanyz67<br>
+Deployed Webpage: https://aalemanyz67.github.io/Image_Search_APP/
 
 # Objective
 Create a web application that allows the user to search and generate images. Application is using Unsplash (https://unsplash.com/) API to generate the images.

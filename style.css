@@ -6,6 +6,9 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+    
+    
+    
 }
 body{
     line-height: 1.6;
@@ -31,7 +34,8 @@ form{
     box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
     border-radius:5px;
     font-size: 18px;
-    color: #333;
+    color: black;
+    font-weight: bold;
 
 }
 #search-button{
@@ -53,6 +57,7 @@ form{
     flex-wrap: wrap;
     max-width: 1200px;
     margin: 0 auto;
+    
 
 }
 .search-result{

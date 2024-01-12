@@ -31,3 +31,8 @@ Image Generator Application Tutorial - Tech2 etc
 # Released under MIT License
 
 https://choosealicense.com/licenses/mit/
+
+# Contact
+Alberto Aleman Jr.
+albertaleman67@gmail.com
+https://github.com/aalemanyz67
